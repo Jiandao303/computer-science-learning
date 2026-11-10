@@ -1,0 +1,306 @@
+[
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/slides/01-relationalmodel.pdf",
+  "dest": "90-原始PDF/15-445/slides/01-relationalmodel.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "幻灯片 01-relationalmodel"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/slides/02-modernsql.pdf",
+  "dest": "90-原始PDF/15-445/slides/02-modernsql.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "幻灯片 02-modernsql"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/slides/03-storage1.pdf",
+  "dest": "90-原始PDF/15-445/slides/03-storage1.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "幻灯片 03-storage1"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/slides/04-bufferpool.pdf",
+  "dest": "90-原始PDF/15-445/slides/04-bufferpool.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "幻灯片 04-bufferpool"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/slides/05-storage2.pdf",
+  "dest": "90-原始PDF/15-445/slides/05-storage2.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "幻灯片 05-storage2"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/slides/06-storage3.pdf",
+  "dest": "90-原始PDF/15-445/slides/06-storage3.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "幻灯片 06-storage3"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/slides/07-hashtables.pdf",
+  "dest": "90-原始PDF/15-445/slides/07-hashtables.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "幻灯片 07-hashtables"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/slides/08-indexes1.pdf",
+  "dest": "90-原始PDF/15-445/slides/08-indexes1.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "幻灯片 08-indexes1"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/slides/09-indexes2.pdf",
+  "dest": "90-原始PDF/15-445/slides/09-indexes2.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "幻灯片 09-indexes2"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/slides/10-indexconcurrency.pdf",
+  "dest": "90-原始PDF/15-445/slides/10-indexconcurrency.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "幻灯片 10-indexconcurrency"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/slides/11-sorting.pdf",
+  "dest": "90-原始PDF/15-445/slides/11-sorting.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "幻灯片 11-sorting"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/slides/12-joins.pdf",
+  "dest": "90-原始PDF/15-445/slides/12-joins.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "幻灯片 12-joins"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/slides/13-queryexecution1.pdf",
+  "dest": "90-原始PDF/15-445/slides/13-queryexecution1.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "幻灯片 13-queryexecution1"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/slides/14-queryexecution2.pdf",
+  "dest": "90-原始PDF/15-445/slides/14-queryexecution2.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "幻灯片 14-queryexecution2"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/slides/15-optimization1.pdf",
+  "dest": "90-原始PDF/15-445/slides/15-optimization1.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "幻灯片 15-optimization1"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/slides/16-optimization2.pdf",
+  "dest": "90-原始PDF/15-445/slides/16-optimization2.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "幻灯片 16-optimization2"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/slides/17-concurrencycontrol.pdf",
+  "dest": "90-原始PDF/15-445/slides/17-concurrencycontrol.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "幻灯片 17-concurrencycontrol"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/slides/18-twophaselocking.pdf",
+  "dest": "90-原始PDF/15-445/slides/18-twophaselocking.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "幻灯片 18-twophaselocking"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/notes/01-relationalmodel.pdf",
+  "dest": "90-原始PDF/15-445/notes/01-relationalmodel.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "讲义笔记 01-relationalmodel"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/notes/02-modernsql.pdf",
+  "dest": "90-原始PDF/15-445/notes/02-modernsql.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "讲义笔记 02-modernsql"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/notes/03-storage1.pdf",
+  "dest": "90-原始PDF/15-445/notes/03-storage1.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "讲义笔记 03-storage1"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/notes/04-bufferpool.pdf",
+  "dest": "90-原始PDF/15-445/notes/04-bufferpool.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "讲义笔记 04-bufferpool"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/notes/05-storage2.pdf",
+  "dest": "90-原始PDF/15-445/notes/05-storage2.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "讲义笔记 05-storage2"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/notes/06-storage3.pdf",
+  "dest": "90-原始PDF/15-445/notes/06-storage3.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "讲义笔记 06-storage3"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/notes/07-hashtables.pdf",
+  "dest": "90-原始PDF/15-445/notes/07-hashtables.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "讲义笔记 07-hashtables"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/notes/08-indexes1.pdf",
+  "dest": "90-原始PDF/15-445/notes/08-indexes1.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "讲义笔记 08-indexes1"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/notes/09-indexes2.pdf",
+  "dest": "90-原始PDF/15-445/notes/09-indexes2.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "讲义笔记 09-indexes2"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/notes/10-indexconcurrency.pdf",
+  "dest": "90-原始PDF/15-445/notes/10-indexconcurrency.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "讲义笔记 10-indexconcurrency"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/notes/11-sorting.pdf",
+  "dest": "90-原始PDF/15-445/notes/11-sorting.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "讲义笔记 11-sorting"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/notes/12-joins.pdf",
+  "dest": "90-原始PDF/15-445/notes/12-joins.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "讲义笔记 12-joins"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/notes/13-queryexecution1.pdf",
+  "dest": "90-原始PDF/15-445/notes/13-queryexecution1.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "讲义笔记 13-queryexecution1"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/notes/14-queryexecution2.pdf",
+  "dest": "90-原始PDF/15-445/notes/14-queryexecution2.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "讲义笔记 14-queryexecution2"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/notes/16-optimization2.pdf",
+  "dest": "90-原始PDF/15-445/notes/16-optimization2.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "讲义笔记 16-optimization2"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/notes/17-concurrencycontrol.pdf",
+  "dest": "90-原始PDF/15-445/notes/17-concurrencycontrol.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "讲义笔记 17-concurrencycontrol"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/files/hw2-15445-fall26.pdf",
+  "dest": "90-原始PDF/15-445/homework/hw2-15445-fall26.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "作业 hw2"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/files/hw3-15445-fall26.pdf",
+  "dest": "90-原始PDF/15-445/homework/hw3-15445-fall26.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "作业 hw3"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/files/hw4-15445-fall26.pdf",
+  "dest": "90-原始PDF/15-445/homework/hw4-15445-fall26.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "作业 hw4"
+ },
+ {
+  "url": "https://15445.courses.cs.cmu.edu/fall2026/files/hw5-15445-fall26.pdf",
+  "dest": "90-原始PDF/15-445/homework/hw5-15445-fall26.pdf",
+  "course": "15-445",
+  "semester": "Fall 2026",
+  "license": "课程官网公开幻灯片/讲义（Fall 2026），未标注开放许可；仅作个人学习存档",
+  "title": "作业 hw5"
+ }
+]

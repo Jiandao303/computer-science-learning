@@ -1,0 +1,594 @@
+[
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/lectures/01-contracts.pdf",
+  "dest": "90-原始PDF/15-122/lectures/01-contracts.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 01-contracts"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/code/01-contracts.tgz",
+  "dest": "90-原始PDF/15-122/code/01-contracts.tgz",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课堂示例代码 01-contracts"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/lectures/02-ints.pdf",
+  "dest": "90-原始PDF/15-122/lectures/02-ints.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 02-ints"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/code/02-ints.tgz",
+  "dest": "90-原始PDF/15-122/code/02-ints.tgz",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课堂示例代码 02-ints"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/lectures/03-arrays.pdf",
+  "dest": "90-原始PDF/15-122/lectures/03-arrays.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 03-arrays"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/code/03-arrays.tgz",
+  "dest": "90-原始PDF/15-122/code/03-arrays.tgz",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课堂示例代码 03-arrays"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/lectures/04-linsearch.pdf",
+  "dest": "90-原始PDF/15-122/lectures/04-linsearch.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 04-linsearch"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/code/04-linsearch.tgz",
+  "dest": "90-原始PDF/15-122/code/04-linsearch.tgz",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课堂示例代码 04-linsearch"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/lectures/05-bigo.pdf",
+  "dest": "90-原始PDF/15-122/lectures/05-bigo.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 05-bigo"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/code/05-bigo.tgz",
+  "dest": "90-原始PDF/15-122/code/05-bigo.tgz",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课堂示例代码 05-bigo"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/lectures/06-binsearch.pdf",
+  "dest": "90-原始PDF/15-122/lectures/06-binsearch.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 06-binsearch"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/code/06-binsearch.tgz",
+  "dest": "90-原始PDF/15-122/code/06-binsearch.tgz",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课堂示例代码 06-binsearch"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/lectures/07-quicksort.pdf",
+  "dest": "90-原始PDF/15-122/lectures/07-quicksort.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 07-quicksort"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/code/07-quicksort.tgz",
+  "dest": "90-原始PDF/15-122/code/07-quicksort.tgz",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课堂示例代码 07-quicksort"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/lectures/08-libraries.pdf",
+  "dest": "90-原始PDF/15-122/lectures/08-libraries.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 08-libraries"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/code/08-libraries.tgz",
+  "dest": "90-原始PDF/15-122/code/08-libraries.tgz",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课堂示例代码 08-libraries"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/lectures/09-stackqueue.pdf",
+  "dest": "90-原始PDF/15-122/lectures/09-stackqueue.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 09-stackqueue"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/code/09-stackqueue.tgz",
+  "dest": "90-原始PDF/15-122/code/09-stackqueue.tgz",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课堂示例代码 09-stackqueue"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/lectures/10-linkedlist.pdf",
+  "dest": "90-原始PDF/15-122/lectures/10-linkedlist.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 10-linkedlist"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/code/10-linkedlist.tgz",
+  "dest": "90-原始PDF/15-122/code/10-linkedlist.tgz",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课堂示例代码 10-linkedlist"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/lectures/11-uba.pdf",
+  "dest": "90-原始PDF/15-122/lectures/11-uba.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 11-uba"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/code/11-uba.tgz",
+  "dest": "90-原始PDF/15-122/code/11-uba.tgz",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课堂示例代码 11-uba"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/lectures/12-hashing.pdf",
+  "dest": "90-原始PDF/15-122/lectures/12-hashing.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 12-hashing"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/code/12-hashing.tgz",
+  "dest": "90-原始PDF/15-122/code/12-hashing.tgz",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课堂示例代码 12-hashing"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/lectures/13-hdict.pdf",
+  "dest": "90-原始PDF/15-122/lectures/13-hdict.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 13-hdict"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/code/13-hdict.tgz",
+  "dest": "90-原始PDF/15-122/code/13-hdict.tgz",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课堂示例代码 13-hdict"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/lectures/14-generic.pdf",
+  "dest": "90-原始PDF/15-122/lectures/14-generic.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 14-generic"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/code/14-generic.tgz",
+  "dest": "90-原始PDF/15-122/code/14-generic.tgz",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课堂示例代码 14-generic"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/lectures/15-bst.pdf",
+  "dest": "90-原始PDF/15-122/lectures/15-bst.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 15-bst"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/code/15-bst.tgz",
+  "dest": "90-原始PDF/15-122/code/15-bst.tgz",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课堂示例代码 15-bst"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/lectures/16-avl.pdf",
+  "dest": "90-原始PDF/15-122/lectures/16-avl.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 16-avl"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/code/16-avl.tgz",
+  "dest": "90-原始PDF/15-122/code/16-avl.tgz",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课堂示例代码 16-avl"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/lectures/17-cintro.pdf",
+  "dest": "90-原始PDF/15-122/lectures/17-cintro.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 17-cintro"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/code/17-cintro.tgz",
+  "dest": "90-原始PDF/15-122/code/17-cintro.tgz",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课堂示例代码 17-cintro"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/lectures/18-cmem.pdf",
+  "dest": "90-原始PDF/15-122/lectures/18-cmem.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 18-cmem"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/code/18-cmem.tgz",
+  "dest": "90-原始PDF/15-122/code/18-cmem.tgz",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课堂示例代码 18-cmem"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/lectures/19-cnum.pdf",
+  "dest": "90-原始PDF/15-122/lectures/19-cnum.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 19-cnum"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/code/19-cnum.tgz",
+  "dest": "90-原始PDF/15-122/code/19-cnum.tgz",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课堂示例代码 19-cnum"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/lectures/20-c0vm.pdf",
+  "dest": "90-原始PDF/15-122/lectures/20-c0vm.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 20-c0vm"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/code/20-c0vm.tgz",
+  "dest": "90-原始PDF/15-122/code/20-c0vm.tgz",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课堂示例代码 20-c0vm"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/lectures/21-graphs.pdf",
+  "dest": "90-原始PDF/15-122/lectures/21-graphs.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 21-graphs"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/code/21-graphs.tgz",
+  "dest": "90-原始PDF/15-122/code/21-graphs.tgz",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课堂示例代码 21-graphs"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/lectures/22-dfs.pdf",
+  "dest": "90-原始PDF/15-122/lectures/22-dfs.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 22-dfs"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/code/22-dfs.tgz",
+  "dest": "90-原始PDF/15-122/code/22-dfs.tgz",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课堂示例代码 22-dfs"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/lectures/23-spanning.pdf",
+  "dest": "90-原始PDF/15-122/lectures/23-spanning.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 23-spanning"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/code/23-spanning.tgz",
+  "dest": "90-原始PDF/15-122/code/23-spanning.tgz",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课堂示例代码 23-spanning"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/lectures/24-unionfind.pdf",
+  "dest": "90-原始PDF/15-122/lectures/24-unionfind.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 24-unionfind"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/code/24-unionfind.tgz",
+  "dest": "90-原始PDF/15-122/code/24-unionfind.tgz",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课堂示例代码 24-unionfind"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/lectures/25-pq.pdf",
+  "dest": "90-原始PDF/15-122/lectures/25-pq.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 25-pq"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/code/25-pq.tgz",
+  "dest": "90-原始PDF/15-122/code/25-pq.tgz",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课堂示例代码 25-pq"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/lectures/26-heap.pdf",
+  "dest": "90-原始PDF/15-122/lectures/26-heap.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 26-heap"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/code/26-heap.tgz",
+  "dest": "90-原始PDF/15-122/code/26-heap.tgz",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课堂示例代码 26-heap"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/slides/review/08-pointers.pdf",
+  "dest": "90-原始PDF/15-122/review-slides/08-pointers.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "复习幻灯片 08-pointers"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/slides/review/12-voidstar.pdf",
+  "dest": "90-原始PDF/15-122/review-slides/12-voidstar.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "复习幻灯片 12-voidstar"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/slides/review/14-fpointer.pdf",
+  "dest": "90-原始PDF/15-122/review-slides/14-fpointer.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "复习幻灯片 14-fpointer"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/misc/setup.pdf",
+  "dest": "90-原始PDF/15-122/misc/setup.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "Setup Lab"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/misc/acad.pdf",
+  "dest": "90-原始PDF/15-122/misc/acad.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "学术诚信"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/misc/unit_testing_notes.pdf",
+  "dest": "90-原始PDF/15-122/misc/unit_testing_notes.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "单元测试笔记"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/misc/linux_quickref.pdf",
+  "dest": "90-原始PDF/15-122/misc/linux_quickref.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "Linux 速查"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/gts/questions.pdf",
+  "dest": "90-原始PDF/15-122/gts/questions.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "Guides to Success: questions"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/gts/laptop.pdf",
+  "dest": "90-原始PDF/15-122/gts/laptop.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "Guides to Success: laptop"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/gts/terminal.pdf",
+  "dest": "90-原始PDF/15-122/gts/terminal.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "Guides to Success: terminal"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/gts/vim.pdf",
+  "dest": "90-原始PDF/15-122/gts/vim.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "Guides to Success: vim"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/gts/vscode.pdf",
+  "dest": "90-原始PDF/15-122/gts/vscode.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "Guides to Success: vscode"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/gts/style.pdf",
+  "dest": "90-原始PDF/15-122/gts/style.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "Guides to Success: style"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/gts/c0debugging.pdf",
+  "dest": "90-原始PDF/15-122/gts/c0debugging.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "Guides to Success: c0debugging"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/gts/autolab.pdf",
+  "dest": "90-原始PDF/15-122/gts/autolab.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "Guides to Success: autolab"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/gts/testing.pdf",
+  "dest": "90-原始PDF/15-122/gts/testing.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "Guides to Success: testing"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/gts/print.pdf",
+  "dest": "90-原始PDF/15-122/gts/print.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "Guides to Success: print"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/gts/contracts.pdf",
+  "dest": "90-原始PDF/15-122/gts/contracts.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "Guides to Success: contracts"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/gts/cdebugging.pdf",
+  "dest": "90-原始PDF/15-122/gts/cdebugging.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "Guides to Success: cdebugging"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/gts/valgrind.pdf",
+  "dest": "90-原始PDF/15-122/gts/valgrind.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "Guides to Success: valgrind"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/gts/cprint.pdf",
+  "dest": "90-原始PDF/15-122/gts/cprint.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "Guides to Success: cprint"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~15122-archive/f26/handouts/gts/clib.pdf",
+  "dest": "90-原始PDF/15-122/gts/clib.pdf",
+  "course": "15-122",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "Guides to Success: clib"
+ }
+]

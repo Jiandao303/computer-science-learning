@@ -1,0 +1,141 @@
+{
+  "checks": [
+    {
+      "name": "空文件",
+      "status": "pass",
+      "detail": "发现 0 个 0 字节文件",
+      "items": []
+    },
+    {
+      "name": "过小的 Markdown",
+      "status": "pass",
+      "detail": "发现 0 个小于 200 字节的 Markdown",
+      "items": []
+    },
+    {
+      "name": "重复文件",
+      "status": "pass",
+      "detail": "发现 0 组内容完全相同的文件",
+      "items": []
+    },
+    {
+      "name": "笔记文件名规范",
+      "status": "warn",
+      "detail": "12 个笔记文件名不符合 `15-XXX-NN-Name.md` 规范",
+      "items": [
+        {
+          "file": "10-CMU-15-122/03-练习与复盘/00-练习与复盘总览.md"
+        },
+        {
+          "file": "10-CMU-15-122/03-练习与复盘/01-契约与循环不变式复盘.md"
+        },
+        {
+          "file": "10-CMU-15-122/03-练习与复盘/02-复杂度与算法复盘.md"
+        },
+        {
+          "file": "20-CMU-15-213/03-Lab实验笔记/00-Lab总览.md"
+        },
+        {
+          "file": "20-CMU-15-213/03-Lab实验笔记/01-CProgrammingLab笔记.md"
+        },
+        {
+          "file": "20-CMU-15-213/03-Lab实验笔记/02-受限Lab说明.md"
+        },
+        {
+          "file": "40-CMU-15-445/03-项目学习笔记/00-项目总览.md"
+        },
+        {
+          "file": "40-CMU-15-445/03-项目学习笔记/01-Project0-Cpp-Primer.md"
+        },
+        {
+          "file": "40-CMU-15-445/03-项目学习笔记/02-Project1-Buffer-Pool.md"
+        },
+        {
+          "file": "40-CMU-15-445/03-项目学习笔记/03-Project2-BPlusTree.md"
+        },
+        {
+          "file": "40-CMU-15-445/03-项目学习笔记/04-Project3-Query-Execution.md"
+        },
+        {
+          "file": "40-CMU-15-445/03-项目学习笔记/05-Project4-Concurrency-Control.md"
+        }
+      ]
+    },
+    {
+      "name": "扩展名",
+      "status": "pass",
+      "detail": "0 个文件的扩展名不在白名单内",
+      "items": []
+    },
+    {
+      "name": "YAML 缺失",
+      "status": "pass",
+      "detail": "0 篇笔记完全没有 YAML frontmatter",
+      "items": []
+    },
+    {
+      "name": "YAML 字段完整性",
+      "status": "pass",
+      "detail": "0 篇笔记 YAML 缺少必需字段",
+      "items": []
+    },
+    {
+      "name": "12 节结构完整性",
+      "status": "pass",
+      "detail": "0 篇笔记缺少必需章节",
+      "items": []
+    },
+    {
+      "name": "内部链接断链",
+      "status": "warn",
+      "detail": "发现 4 处可能断链的 WikiLink",
+      "items": [
+        {
+          "file": "提示词.md",
+          "target": "CMU 15-122 - 课程总览"
+        },
+        {
+          "file": "提示词.md",
+          "target": "CMU 15-213 - 课程总览"
+        },
+        {
+          "file": "提示词.md",
+          "target": "CMU 15-445 - 课程总览"
+        },
+        {
+          "file": "提示词.md",
+          "target": "计算机专业术语词典"
+        }
+      ]
+    },
+    {
+      "name": "来源可追溯（第 8 节）",
+      "status": "pass",
+      "detail": "0 篇笔记第 8 节未出现 PDF 路径或原始链接",
+      "items": []
+    },
+    {
+      "name": "C0 / C 区分",
+      "status": "pass",
+      "detail": "0 篇 15-122 前段笔记未提及 C0",
+      "items": []
+    },
+    {
+      "name": "学期混用",
+      "status": "pass",
+      "detail": "0 篇笔记存在学期标注问题",
+      "items": []
+    }
+  ],
+  "summary": {
+    "pass": 10,
+    "warn": 2,
+    "fail": 0
+  },
+  "stats": {
+    "markdown_count": 129,
+    "note_count": 104,
+    "pdf_count": 172,
+    "total_files": 345
+  }
+}

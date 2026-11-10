@@ -1,0 +1,728 @@
+{
+  "checked_with": "scripts/verify_urls.py",
+  "total": 80,
+  "reachable": 76,
+  "unreachable": 4,
+  "results": [
+    {
+      "domain": "数学基础",
+      "name": "MIT 18.06 Linear Algebra",
+      "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/",
+      "via": "urllib"
+    },
+    {
+      "domain": "数学基础",
+      "name": "MIT 6.042J Mathematics for Computer Science",
+      "url": "https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/",
+      "via": "urllib"
+    },
+    {
+      "domain": "数学基础",
+      "name": "MIT 6.041 Probabilistic Systems Analysis",
+      "url": "https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/",
+      "via": "urllib"
+    },
+    {
+      "domain": "数学基础",
+      "name": "Berkeley CS 70",
+      "url": "https://www.eecs70.org/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://www.eecs70.org/",
+      "via": "urllib"
+    },
+    {
+      "domain": "数学基础",
+      "name": "Stanford CS 109",
+      "url": "https://web.stanford.edu/class/cs109/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://web.stanford.edu/class/cs109/",
+      "via": "urllib"
+    },
+    {
+      "domain": "数学基础",
+      "name": "MIT 18.404J Theory of Computation",
+      "url": "https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/",
+      "via": "urllib"
+    },
+    {
+      "domain": "编程基础",
+      "name": "Harvard CS50x",
+      "url": "https://cs50.harvard.edu/x/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://cs50.harvard.edu/x/",
+      "via": "urllib"
+    },
+    {
+      "domain": "编程基础",
+      "name": "Berkeley CS 61A",
+      "url": "https://cs61a.org/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://cs61a.org/",
+      "via": "urllib"
+    },
+    {
+      "domain": "编程基础",
+      "name": "MIT 6.100L",
+      "url": "https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/",
+      "via": "urllib"
+    },
+    {
+      "domain": "编程基础",
+      "name": "CMU 15-112",
+      "url": "https://www.cs.cmu.edu/~112/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://www.cs.cmu.edu/~112/",
+      "via": "urllib"
+    },
+    {
+      "domain": "编程基础",
+      "name": "SICP 在线全文",
+      "url": "https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html",
+      "via": "urllib"
+    },
+    {
+      "domain": "编程基础",
+      "name": "Python 官方教程",
+      "url": "https://docs.python.org/3/tutorial/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://docs.python.org/3/tutorial/",
+      "via": "urllib"
+    },
+    {
+      "domain": "数据结构与算法",
+      "name": "MIT 6.006 Introduction to Algorithms",
+      "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/",
+      "via": "urllib"
+    },
+    {
+      "domain": "数据结构与算法",
+      "name": "Princeton Algorithms (Sedgewick)",
+      "url": "https://algs4.cs.princeton.edu/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://algs4.cs.princeton.edu/home/",
+      "via": "urllib"
+    },
+    {
+      "domain": "数据结构与算法",
+      "name": "Berkeley CS 61B",
+      "url": "https://cs61b.org/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://cs61b.org/",
+      "via": "urllib"
+    },
+    {
+      "domain": "数据结构与算法",
+      "name": "Stanford CS 161",
+      "url": "https://web.stanford.edu/class/cs161/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://web.stanford.edu/class/cs161/",
+      "via": "urllib"
+    },
+    {
+      "domain": "数据结构与算法",
+      "name": "CP-Algorithms",
+      "url": "https://cp-algorithms.com/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://cp-algorithms.com/",
+      "via": "urllib"
+    },
+    {
+      "domain": "数据结构与算法",
+      "name": "CMU 15-122 Fall 2026",
+      "url": "https://www.cs.cmu.edu/~15122-archive/f26/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://www.cs.cmu.edu/~15122-archive/f26/",
+      "via": "urllib"
+    },
+    {
+      "domain": "计算机组成",
+      "name": "CMU 15-213 Fall 2026",
+      "url": "https://www.cs.cmu.edu/~213/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://www.cs.cmu.edu/~213/",
+      "via": "urllib"
+    },
+    {
+      "domain": "计算机组成",
+      "name": "Berkeley CS 61C",
+      "url": "https://cs61c.org/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://cs61c.org/fa26/",
+      "via": "urllib"
+    },
+    {
+      "domain": "计算机组成",
+      "name": "Nand2Tetris",
+      "url": "https://www.nand2tetris.org/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://www.nand2tetris.org/",
+      "via": "urllib"
+    },
+    {
+      "domain": "计算机组成",
+      "name": "MIT 6.004 Computation Structures",
+      "url": "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/",
+      "via": "urllib"
+    },
+    {
+      "domain": "计算机组成",
+      "name": "CSAPP 教材站",
+      "url": "https://csapp.cs.cmu.edu/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://csapp.cs.cmu.edu/",
+      "via": "urllib"
+    },
+    {
+      "domain": "操作系统",
+      "name": "MIT 6.S081 / 6.828",
+      "url": "https://pdos.csail.mit.edu/6.S081/2021/schedule.html",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://pdos.csail.mit.edu/6.S081/2021/schedule.html",
+      "via": "urllib"
+    },
+    {
+      "domain": "操作系统",
+      "name": "OSTEP 教材",
+      "url": "https://pages.cs.wisc.edu/~remzi/OSTEP/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://pages.cs.wisc.edu/~remzi/OSTEP/",
+      "via": "urllib"
+    },
+    {
+      "domain": "操作系统",
+      "name": "Berkeley CS 162",
+      "url": "https://cs162.org/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://cs162.org/",
+      "via": "urllib"
+    },
+    {
+      "domain": "操作系统",
+      "name": "CMU 15-410",
+      "url": "https://www.cs.cmu.edu/~410/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://www.cs.cmu.edu/~410/",
+      "via": "urllib"
+    },
+    {
+      "domain": "计算机网络",
+      "name": "Stanford CS 144",
+      "url": "https://cs144.github.io/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://cs144.github.io/",
+      "via": "urllib"
+    },
+    {
+      "domain": "计算机网络",
+      "name": "Kurose & Ross 教材站",
+      "url": "https://gaia.cs.umass.edu/kurose_ross/index.php",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://gaia.cs.umass.edu/kurose_ross/index.php",
+      "via": "urllib"
+    },
+    {
+      "domain": "计算机网络",
+      "name": "CMU 15-441",
+      "url": "https://computer-networks.github.io/fa20/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://computer-networks.github.io/fa20/",
+      "via": "urllib"
+    },
+    {
+      "domain": "数据库",
+      "name": "CMU 15-445 Fall 2026",
+      "url": "https://15445.courses.cs.cmu.edu/fall2026/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://15445.courses.cs.cmu.edu/fall2026/",
+      "via": "urllib"
+    },
+    {
+      "domain": "数据库",
+      "name": "Berkeley CS 186",
+      "url": "https://cs186berkeley.net/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://cs186berkeley.net/",
+      "via": "urllib"
+    },
+    {
+      "domain": "数据库",
+      "name": "Database System Concepts 教材站",
+      "url": "https://db-book.com/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://db-book.com/",
+      "via": "urllib"
+    },
+    {
+      "domain": "数据库",
+      "name": "PostgreSQL 文档",
+      "url": "https://www.postgresql.org/docs/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://www.postgresql.org/docs/",
+      "via": "urllib"
+    },
+    {
+      "domain": "数据库",
+      "name": "SQLite 文档",
+      "url": "https://www.sqlite.org/docs.html",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://www.sqlite.org/docs.html",
+      "via": "urllib"
+    },
+    {
+      "domain": "编译原理",
+      "name": "Stanford CS 143",
+      "url": "https://web.stanford.edu/class/cs143/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://web.stanford.edu/class/cs143/",
+      "via": "urllib"
+    },
+    {
+      "domain": "编译原理",
+      "name": "Crafting Interpreters",
+      "url": "https://craftinginterpreters.com/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://craftinginterpreters.com/",
+      "via": "urllib"
+    },
+    {
+      "domain": "编译原理",
+      "name": "LLVM Kaleidoscope 教程",
+      "url": "https://llvm.org/docs/tutorial/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://llvm.org/docs/tutorial/",
+      "via": "urllib"
+    },
+    {
+      "domain": "编译原理",
+      "name": "CMU 15-411",
+      "url": "https://www.cs.cmu.edu/~fp/courses/15411-f08/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://www.cs.cmu.edu/~fp/courses/15411-f08/",
+      "via": "urllib"
+    },
+    {
+      "domain": "软件工程",
+      "name": "CMU 15-214 Fall 2013",
+      "url": "https://www.cs.cmu.edu/~aldrich/214/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://www.cs.cmu.edu/~aldrich/214/",
+      "via": "urllib"
+    },
+    {
+      "domain": "软件工程",
+      "name": "MIT 6.031 Software Construction",
+      "url": "https://web.mit.edu/6.031/www/sp21/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://web.mit.edu/6.031/www/sp21/",
+      "via": "urllib"
+    },
+    {
+      "domain": "软件工程",
+      "name": "Google Engineering Practices",
+      "url": "https://google.github.io/eng-practices/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://google.github.io/eng-practices/",
+      "via": "urllib"
+    },
+    {
+      "domain": "软件工程",
+      "name": "Martin Fowler",
+      "url": "https://martinfowler.com/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://martinfowler.com/",
+      "via": "urllib"
+    },
+    {
+      "domain": "软件工程",
+      "name": "Refactoring Guru 设计模式",
+      "url": "https://refactoring.guru/design-patterns",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://refactoring.guru/design-patterns",
+      "via": "urllib"
+    },
+    {
+      "domain": "前端开发",
+      "name": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/zh-CN/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://developer.mozilla.org/zh-CN/",
+      "via": "urllib"
+    },
+    {
+      "domain": "前端开发",
+      "name": "web.dev",
+      "url": "https://web.dev/",
+      "status": "ERR",
+      "reachable": false,
+      "final_url": "URLError",
+      "via": "urllib+curl"
+    },
+    {
+      "domain": "前端开发",
+      "name": "javascript.info",
+      "url": "https://javascript.info/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://javascript.info/",
+      "via": "urllib"
+    },
+    {
+      "domain": "前端开发",
+      "name": "React 官方文档",
+      "url": "https://react.dev/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://react.dev/",
+      "via": "urllib"
+    },
+    {
+      "domain": "前端开发",
+      "name": "Vue 官方文档",
+      "url": "https://cn.vuejs.org/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://cn.vuejs.org/",
+      "via": "urllib"
+    },
+    {
+      "domain": "前端开发",
+      "name": "TypeScript 手册",
+      "url": "https://www.typescriptlang.org/docs/handbook/intro.html",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://www.typescriptlang.org/docs/handbook/intro.html",
+      "via": "urllib"
+    },
+    {
+      "domain": "后端开发",
+      "name": "MIT 6.033 Computer System Engineering",
+      "url": "https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/",
+      "via": "urllib"
+    },
+    {
+      "domain": "后端开发",
+      "name": "The Twelve-Factor App",
+      "url": "https://12factor.net/zh_cn/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://12factor.net/zh_cn/",
+      "via": "urllib"
+    },
+    {
+      "domain": "后端开发",
+      "name": "Node.js 文档",
+      "url": "https://nodejs.org/docs/latest/api/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://nodejs.org/docs/latest/api/",
+      "via": "urllib"
+    },
+    {
+      "domain": "后端开发",
+      "name": "Spring Guides",
+      "url": "https://spring.io/guides",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://spring.io/guides/",
+      "via": "urllib"
+    },
+    {
+      "domain": "后端开发",
+      "name": "FastAPI 文档",
+      "url": "https://fastapi.tiangolo.com/",
+      "status": "ERR",
+      "reachable": false,
+      "final_url": "URLError",
+      "via": "urllib+curl"
+    },
+    {
+      "domain": "软件安全",
+      "name": "OWASP Top 10",
+      "url": "https://owasp.org/www-project-top-ten/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://owasp.org/projects/top-ten",
+      "via": "urllib"
+    },
+    {
+      "domain": "软件安全",
+      "name": "SEED Labs",
+      "url": "https://seedsecuritylabs.org/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://seedsecuritylabs.org/",
+      "via": "urllib"
+    },
+    {
+      "domain": "软件安全",
+      "name": "PortSwigger Web Security Academy",
+      "url": "https://portswigger.net/web-security",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://portswigger.net/web-security",
+      "via": "urllib"
+    },
+    {
+      "domain": "软件安全",
+      "name": "MIT 6.858 Computer Systems Security",
+      "url": "https://css.csail.mit.edu/6.858/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://css.csail.mit.edu/6.858/",
+      "via": "urllib"
+    },
+    {
+      "domain": "软件安全",
+      "name": "CWE",
+      "url": "https://cwe.mitre.org/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://cwe.mitre.org/",
+      "via": "urllib"
+    },
+    {
+      "domain": "DevOps与运维",
+      "name": "Google SRE Book",
+      "url": "https://sre.google/sre-book/table-of-contents/",
+      "status": "ERR",
+      "reachable": false,
+      "final_url": "URLError",
+      "via": "urllib+curl"
+    },
+    {
+      "domain": "DevOps与运维",
+      "name": "Docker 文档",
+      "url": "https://docs.docker.com/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://docs.docker.com/",
+      "via": "curl"
+    },
+    {
+      "domain": "DevOps与运维",
+      "name": "Kubernetes 文档",
+      "url": "https://kubernetes.io/docs/home/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://kubernetes.io/docs/home/",
+      "via": "urllib"
+    },
+    {
+      "domain": "DevOps与运维",
+      "name": "GitHub Actions 文档",
+      "url": "https://docs.github.com/en/actions",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://docs.github.com/en/actions",
+      "via": "urllib"
+    },
+    {
+      "domain": "DevOps与运维",
+      "name": "Linux 命令行入门 (TLCL)",
+      "url": "https://linuxcommand.org/tlcl.php",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://linuxcommand.org/",
+      "via": "urllib"
+    },
+    {
+      "domain": "分布式系统",
+      "name": "MIT 6.824",
+      "url": "https://pdos.csail.mit.edu/6.824/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://pdos.csail.mit.edu/6.824/",
+      "via": "urllib"
+    },
+    {
+      "domain": "分布式系统",
+      "name": "Raft 共识算法",
+      "url": "https://raft.github.io/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://raft.github.io/",
+      "via": "urllib"
+    },
+    {
+      "domain": "分布式系统",
+      "name": "Jepsen",
+      "url": "https://jepsen.io/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://jepsen.io/",
+      "via": "urllib"
+    },
+    {
+      "domain": "分布式系统",
+      "name": "CMU 15-440",
+      "url": "https://www.cs.cmu.edu/~440/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://www.cs.cmu.edu/~440/",
+      "via": "urllib"
+    },
+    {
+      "domain": "系统架构",
+      "name": "System Design Primer",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "status": "ERR",
+      "reachable": false,
+      "final_url": "URLError",
+      "via": "urllib+curl"
+    },
+    {
+      "domain": "系统架构",
+      "name": "AWS Well-Architected",
+      "url": "https://aws.amazon.com/architecture/well-architected/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://aws.amazon.com/cn/architecture/well-architected/",
+      "via": "urllib"
+    },
+    {
+      "domain": "系统架构",
+      "name": "Azure Architecture Center",
+      "url": "https://learn.microsoft.com/en-us/azure/architecture/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://learn.microsoft.com/en-us/azure/architecture/",
+      "via": "urllib"
+    },
+    {
+      "domain": "系统架构",
+      "name": "12-Factor App",
+      "url": "https://12factor.net/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://12factor.net/",
+      "via": "urllib"
+    },
+    {
+      "domain": "计算机高级选修",
+      "name": "Stanford CS 229 Machine Learning",
+      "url": "https://cs229.stanford.edu/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://cs229.stanford.edu/",
+      "via": "urllib"
+    },
+    {
+      "domain": "计算机高级选修",
+      "name": "Stanford CS 231N",
+      "url": "https://cs231n.stanford.edu/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://cs231n.stanford.edu/",
+      "via": "urllib"
+    },
+    {
+      "domain": "计算机高级选修",
+      "name": "Stanford CS 224N",
+      "url": "https://web.stanford.edu/class/cs224n/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://web.stanford.edu/class/cs224n/",
+      "via": "urllib"
+    },
+    {
+      "domain": "计算机高级选修",
+      "name": "CMU 15-462 Computer Graphics",
+      "url": "https://15462.courses.cs.cmu.edu/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://15362.courses.cs.cmu.edu/fall2026/",
+      "via": "urllib"
+    },
+    {
+      "domain": "计算机高级选修",
+      "name": "CMU 15-418 Parallel Computer Architecture",
+      "url": "https://www.cs.cmu.edu/~418/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://www.cs.cmu.edu/~418/",
+      "via": "urllib"
+    },
+    {
+      "domain": "计算机高级选修",
+      "name": "CMU 15-312 Foundations of Programming Languages",
+      "url": "https://www.cs.cmu.edu/~crary/312/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://www.cs.cmu.edu/~crary/312/",
+      "via": "urllib"
+    },
+    {
+      "domain": "计算机高级选修",
+      "name": "Berkeley CS 285 Deep RL",
+      "url": "https://rail.eecs.berkeley.edu/deeprlcourse/",
+      "status": 200,
+      "reachable": true,
+      "final_url": "https://rail.eecs.berkeley.edu/deeprlcourse/",
+      "via": "urllib"
+    }
+  ]
+}

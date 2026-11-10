@@ -1,0 +1,458 @@
+[
+ {
+  "url": "https://www.cs.cmu.edu/~213/lectures/01-overview.pdf",
+  "dest": "90-原始PDF/15-213/lectures/01-overview.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 01-overview"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/lectures/02-bits-bytes-ints.pdf",
+  "dest": "90-原始PDF/15-213/lectures/02-bits-bytes-ints.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 02-bits-bytes-ints"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/lectures/03-machine.pdf",
+  "dest": "90-原始PDF/15-213/lectures/03-machine.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 03-machine"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/lectures/04-machine-beta.pdf",
+  "dest": "90-原始PDF/15-213/lectures/04-machine-beta.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 04-machine-beta"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/lectures/05-machine-gamma.pdf",
+  "dest": "90-原始PDF/15-213/lectures/05-machine-gamma.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 05-machine-gamma"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/lectures/06-machine-delta.pdf",
+  "dest": "90-原始PDF/15-213/lectures/06-machine-delta.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 06-machine-delta"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/lectures/07-linking.pdf",
+  "dest": "90-原始PDF/15-213/lectures/07-linking.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 07-linking"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/lectures/08-design-debugging.pdf",
+  "dest": "90-原始PDF/15-213/lectures/08-design-debugging.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 08-design-debugging"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/lectures/09-memory-hierarchy.pdf",
+  "dest": "90-原始PDF/15-213/lectures/09-memory-hierarchy.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 09-memory-hierarchy"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/lectures/10-cache-memories.pdf",
+  "dest": "90-原始PDF/15-213/lectures/10-cache-memories.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 10-cache-memories"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/lectures/11-vm-concepts.pdf",
+  "dest": "90-原始PDF/15-213/lectures/11-vm-concepts.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 11-vm-concepts"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/lectures/12-vm-details.pdf",
+  "dest": "90-原始PDF/15-213/lectures/12-vm-details.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 12-vm-details"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/lectures/13-malloc-basic.pdf",
+  "dest": "90-原始PDF/15-213/lectures/13-malloc-basic.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 13-malloc-basic"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/lectures/14-malloc-advanced.pdf",
+  "dest": "90-原始PDF/15-213/lectures/14-malloc-advanced.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 14-malloc-advanced"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/lectures/15-optimization.pdf",
+  "dest": "90-原始PDF/15-213/lectures/15-optimization.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 15-optimization"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/lectures/16-processes.pdf",
+  "dest": "90-原始PDF/15-213/lectures/16-processes.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 16-processes"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/lectures/17-ecf.pdf",
+  "dest": "90-原始PDF/15-213/lectures/17-ecf.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 17-ecf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/lectures/18-system-io.pdf",
+  "dest": "90-原始PDF/15-213/lectures/18-system-io.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "讲义 18-system-io"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/recitations/rec01_handout.pdf",
+  "dest": "90-原始PDF/15-213/recitations/rec01_handout.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "复习课 01 handout"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/recitations/rec01_slides.pdf",
+  "dest": "90-原始PDF/15-213/recitations/rec01_slides.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "复习课 01 slides"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/recitations/rec02_handout.pdf",
+  "dest": "90-原始PDF/15-213/recitations/rec02_handout.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "复习课 02 handout"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/recitations/rec02_slides.pdf",
+  "dest": "90-原始PDF/15-213/recitations/rec02_slides.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "复习课 02 slides"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/recitations/rec03_handout.pdf",
+  "dest": "90-原始PDF/15-213/recitations/rec03_handout.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "复习课 03 handout"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/recitations/rec03_slides.pdf",
+  "dest": "90-原始PDF/15-213/recitations/rec03_slides.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "复习课 03 slides"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/recitations/rec04_handout.pdf",
+  "dest": "90-原始PDF/15-213/recitations/rec04_handout.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "复习课 04 handout"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/recitations/rec04_slides.pdf",
+  "dest": "90-原始PDF/15-213/recitations/rec04_slides.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "复习课 04 slides"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/recitations/rec05_handout.pdf",
+  "dest": "90-原始PDF/15-213/recitations/rec05_handout.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "复习课 05 handout"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/recitations/rec05_slides.pdf",
+  "dest": "90-原始PDF/15-213/recitations/rec05_slides.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "复习课 05 slides"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/recitations/rec06_handout.pdf",
+  "dest": "90-原始PDF/15-213/recitations/rec06_handout.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "复习课 06 handout"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/recitations/rec06_slides.pdf",
+  "dest": "90-原始PDF/15-213/recitations/rec06_slides.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "复习课 06 slides"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/recitations/rec07_handout.pdf",
+  "dest": "90-原始PDF/15-213/recitations/rec07_handout.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "复习课 07 handout"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/recitations/rec07_slides.pdf",
+  "dest": "90-原始PDF/15-213/recitations/rec07_slides.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "复习课 07 slides"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/recitations/rec08_handout.pdf",
+  "dest": "90-原始PDF/15-213/recitations/rec08_handout.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "复习课 08 handout"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/recitations/rec08_slides.pdf",
+  "dest": "90-原始PDF/15-213/recitations/rec08_slides.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "复习课 08 slides"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/recitations/rec09_handout.pdf",
+  "dest": "90-原始PDF/15-213/recitations/rec09_handout.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "复习课 09 handout"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/recitations/rec09_slides.pdf",
+  "dest": "90-原始PDF/15-213/recitations/rec09_slides.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "复习课 09 slides"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/recitations/rec10_handout.pdf",
+  "dest": "90-原始PDF/15-213/recitations/rec10_handout.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "复习课 10 handout"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/recitations/rec10_slides.pdf",
+  "dest": "90-原始PDF/15-213/recitations/rec10_slides.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "复习课 10 slides"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/bootcamps/lab1_slides.pdf",
+  "dest": "90-原始PDF/15-213/bootcamps/lab1_slides.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "Bootcamp 1 幻灯片"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/bootcamps/lab1_handout.pdf",
+  "dest": "90-原始PDF/15-213/bootcamps/lab1_handout.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "Bootcamp 1 讲义"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/bootcamps/lab2_slides.pdf",
+  "dest": "90-原始PDF/15-213/bootcamps/lab2_slides.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "Bootcamp 2 幻灯片"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/bootcamps/lab2_handout.pdf",
+  "dest": "90-原始PDF/15-213/bootcamps/lab2_handout.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "Bootcamp 2 讲义"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/bootcamps/lab3_slides.pdf",
+  "dest": "90-原始PDF/15-213/bootcamps/lab3_slides.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "Bootcamp 3 幻灯片"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/bootcamps/lab3_handout.pdf",
+  "dest": "90-原始PDF/15-213/bootcamps/lab3_handout.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "Bootcamp 3 讲义"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/bootcamps/cprogramming-bootcamp-s23.pdf",
+  "dest": "90-原始PDF/15-213/bootcamps/cprogramming-bootcamp-s23.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "C 语言 Bootcamp（2023 春季录制）"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/activities/machine-control.pdf",
+  "dest": "90-原始PDF/15-213/activities/machine-control.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课堂活动 machine-control"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/activities/machine-control-soln.pdf",
+  "dest": "90-原始PDF/15-213/activities/machine-control-soln.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课堂活动 machine-control-soln"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/activities/machine-procedures.pdf",
+  "dest": "90-原始PDF/15-213/activities/machine-procedures.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课堂活动 machine-procedures"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/activities/machine-procedures-soln.pdf",
+  "dest": "90-原始PDF/15-213/activities/machine-procedures-soln.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课堂活动 machine-procedures-soln"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/activities/machine-advanced.pdf",
+  "dest": "90-原始PDF/15-213/activities/machine-advanced.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课堂活动 machine-advanced"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/activities/machine-advanced-soln.pdf",
+  "dest": "90-原始PDF/15-213/activities/machine-advanced-soln.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课堂活动 machine-advanced-soln"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/labs/cprogramminglab.pdf",
+  "dest": "90-原始PDF/15-213/labs/cprogramminglab.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "L0 C Programming Lab 说明"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/labs/cprogramminglab-handout.tar",
+  "dest": "90-原始PDF/15-213/labs/cprogramminglab-handout.tar",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "L0 C Programming Lab 代码包"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/syllabus/syllabus.pdf",
+  "dest": "90-原始PDF/15-213/labs/syllabus.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "课程大纲"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/recitations/gdbnotes-x86-64.pdf",
+  "dest": "90-原始PDF/15-213/recitations/gdbnotes-x86-64.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "GDB 笔记"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/recitations/x86-cheat-sheet.pdf",
+  "dest": "90-原始PDF/15-213/recitations/x86-cheat-sheet.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "x86-64 速查表"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~213/recitations/fwunixref.pdf",
+  "dest": "90-原始PDF/15-213/recitations/fwunixref.pdf",
+  "course": "15-213",
+  "semester": "Fall 2026",
+  "license": "课程官网公开讲义，未标注开放许可；仅作个人学习存档，版权归 CMU 及授课教师",
+  "title": "Unix 参考"
+ }
+]

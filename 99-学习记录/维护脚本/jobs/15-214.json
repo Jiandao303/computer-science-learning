@@ -1,0 +1,306 @@
+[
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/01a-intro.pdf",
+  "dest": "90-原始PDF/15-214/slides/01a-intro.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "01a-intro.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/01b-orga.pdf",
+  "dest": "90-原始PDF/15-214/slides/01b-orga.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "01b-orga.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/02-objects.pdf",
+  "dest": "90-原始PDF/15-214/slides/02-objects.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "02-objects.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/03%20Encapsulation%20and%20inheritance.pdf",
+  "dest": "90-原始PDF/15-214/slides/03_Encapsulation_and_inheritance.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "03 Encapsulation and inheritance.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/04%20Inheritance%2C%20type-checking%2C%20and%20Method%20dispatch.pdf",
+  "dest": "90-原始PDF/15-214/slides/04_Inheritance,_type-checking,_and_Method_dispatch.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "04 Inheritance, type-checking, and Method dispatch.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/05%20Object%20contracts%20and%20exceptions.pdf",
+  "dest": "90-原始PDF/15-214/slides/05_Object_contracts_and_exceptions.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "05 Object contracts and exceptions.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/06%20Mutability%20and%20Java%20Potpourri.pdf",
+  "dest": "90-原始PDF/15-214/slides/06_Mutability_and_Java_Potpourri.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "06 Mutability and Java Potpourri.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/07-design-patterns.pdf",
+  "dest": "90-原始PDF/15-214/slides/07-design-patterns.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "07-design-patterns.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/07-design-pattern-notes.pdf",
+  "dest": "90-原始PDF/15-214/slides/07-design-pattern-notes.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "07-design-pattern-notes.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/08-specification.pdf",
+  "dest": "90-原始PDF/15-214/slides/08-specification.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "08-specification.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/08-testing.pdf",
+  "dest": "90-原始PDF/15-214/slides/08-testing.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "08-testing.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/09-design-patterns-continued.pdf",
+  "dest": "90-原始PDF/15-214/slides/09-design-patterns-continued.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "09-design-patterns-continued.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/conceptual-modeling.pdf",
+  "dest": "90-原始PDF/15-214/slides/conceptual-modeling.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "conceptual-modeling.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/design-grasp.pdf",
+  "dest": "90-原始PDF/15-214/slides/design-grasp.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "design-grasp.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/design-information-hiding.pdf",
+  "dest": "90-原始PDF/15-214/slides/design-information-hiding.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "design-information-hiding.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/dsms.pdf",
+  "dest": "90-原始PDF/15-214/slides/dsms.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "dsms.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/gui-intro.pdf",
+  "dest": "90-原始PDF/15-214/slides/gui-intro.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "gui-intro.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/guis-continued.pdf",
+  "dest": "90-原始PDF/15-214/slides/guis-continued.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "guis-continued.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/formal-analysis-part2.pdf",
+  "dest": "90-原始PDF/15-214/slides/formal-analysis-part2.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "formal-analysis-part2.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/14%20Collections.pdf",
+  "dest": "90-原始PDF/15-214/slides/14_Collections.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "14 Collections.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/14-frameworks.pdf",
+  "dest": "90-原始PDF/15-214/slides/14-frameworks.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "14-frameworks.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/18-concurrency-part1.pdf",
+  "dest": "90-原始PDF/15-214/slides/18-concurrency-part1.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "18-concurrency-part1.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/19-concurrency-part2.pdf",
+  "dest": "90-原始PDF/15-214/slides/19-concurrency-part2.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "19-concurrency-part2.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/20-concurrency-part3.pdf",
+  "dest": "90-原始PDF/15-214/slides/20-concurrency-part3.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "20-concurrency-part3.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/21-distributed-systems.pdf",
+  "dest": "90-原始PDF/15-214/slides/21-distributed-systems.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "21-distributed-systems.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/22-distributed-systems-part2.pdf",
+  "dest": "90-原始PDF/15-214/slides/22-distributed-systems-part2.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "22-distributed-systems-part2.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/23-distributed-systems-part3.pdf",
+  "dest": "90-原始PDF/15-214/slides/23-distributed-systems-part3.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "23-distributed-systems-part3.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/24-staticanalysis.pdf",
+  "dest": "90-原始PDF/15-214/slides/24-staticanalysis.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "24-staticanalysis.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/25-analysis-concurrency.pdf",
+  "dest": "90-原始PDF/15-214/slides/25-analysis-concurrency.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "25-analysis-concurrency.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/26-data-consistency.pdf",
+  "dest": "90-原始PDF/15-214/slides/26-data-consistency.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "26-data-consistency.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/27-history-oo.pdf",
+  "dest": "90-原始PDF/15-214/slides/27-history-oo.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "27-history-oo.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/28-why-objects.pdf",
+  "dest": "90-原始PDF/15-214/slides/28-why-objects.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "28-why-objects.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/28-protocol-programming.pdf",
+  "dest": "90-原始PDF/15-214/slides/28-protocol-programming.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "28-protocol-programming.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/28-dsls-in-wyvern.pdf",
+  "dest": "90-原始PDF/15-214/slides/28-dsls-in-wyvern.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "28-dsls-in-wyvern.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/course-review.pdf",
+  "dest": "90-原始PDF/15-214/slides/course-review.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "course-review.pdf"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/recitations/recitation1.pdf",
+  "dest": "90-原始PDF/15-214/notes/recitation1.pdf",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "Recitation 1 讲义"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/formal-analysis-notes.txt",
+  "dest": "90-原始PDF/15-214/notes/formal-analysis-notes.txt",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "形式化分析笔记（纯文本）"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~aldrich/214/slides/07-design-pattern-notes.txt",
+  "dest": "90-原始PDF/15-214/notes/07-design-pattern-notes.txt",
+  "course": "15-214",
+  "semester": "Fall 2013",
+  "license": "课程官网公开讲义（Fall 2013 历史学期），未标注开放许可；仅作个人学习存档",
+  "title": "设计模式笔记（纯文本）"
+ }
+]
