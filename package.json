@@ -1,0 +1,18 @@
+{
+  "name": "computer-science-learning",
+  "version": "0.1.0",
+  "private": true,
+  "description": "计算机科学学习项目：16 个领域的中文笔记与可核实的公开课程来源",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
