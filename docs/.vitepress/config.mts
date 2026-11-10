@@ -1,9 +1,16 @@
 import { defineConfig, type DefaultTheme } from 'vitepress'
+import { withMermaid } from 'vitepress-plugin-mermaid'
+import { wikilinkPlugin } from './plugins/wikilink'
 
 // 站点根目录 = docs/。
 // package.json 里的 scripts 固定以 `vitepress <command> docs` 调用，
 // 因此 local-materials/、personal-notes/、90-原始PDF/ 等私有目录不会进入构建。
-// 本文件只是骨架：尚未安装依赖，首次本地预览前先执行 `npm install`。
+// 首次本地预览前先执行 `npm install`。
+//
+// 关于 URL 中的中文：曾尝试用 rewrites 把中文路径映射成英文，但 VitePress 的
+// 相对链接按「改写后的路径」解析，docs/ 内 166 条 `./00-领域总览.md` 形式的链接
+// 会全部变成死链（实测 121 条）。改这些链接会破坏 Obsidian 内的跳转，
+// 与本项目「不批量改笔记」的约定冲突，因此放弃 rewrites，保留中文 URL。
 
 type Domain = {
   /** 领域编号，如 "10" */
@@ -36,13 +43,17 @@ const domains: Domain[] = [
 ]
 
 function domainItems(domain: Domain): DefaultTheme.SidebarItem[] {
+  const base = `/${domain.dir}`
   const items: DefaultTheme.SidebarItem[] = [
-    { text: '领域总览', link: `/${domain.dir}/00-领域总览` },
-    { text: '知识点目录', link: `/${domain.dir}/01-知识点目录` },
-    { text: '权威课程与资料', link: `/${domain.dir}/02-权威课程与资料` },
+    { text: '领域总览', link: `${base}/00-领域总览` },
+    { text: '知识点目录', link: `${base}/01-知识点目录` },
+    { text: '权威课程与资料', link: `${base}/02-权威课程与资料` },
   ]
   if (domain.notesIndex) {
-    items.push({ text: '已有笔记索引', link: `/${domain.dir}/03-已有笔记索引` })
+    items.push({ text: '已有笔记索引', link: `${base}/03-已有笔记索引` })
+  }
+  if (domain.dir === '30-数据结构与算法') {
+    items.push({ text: '算法设计范式', link: `${base}/04-算法设计范式` })
   }
   return items
 }
@@ -58,56 +69,62 @@ const domainSidebar: DefaultTheme.SidebarItem[] = domains.map((domain) => ({
   items: domainItems(domain),
 }))
 
-export default defineConfig({
-  lang: 'zh-CN',
-  title: '计算机科学学习笔记',
-  description: '16 个知识领域的原创中文笔记与公开课程索引；不含第三方 PDF。',
+export default withMermaid(
+  defineConfig({
+    lang: 'zh-CN',
+    title: '计算机科学学习笔记',
+    description: '16 个知识领域的原创中文笔记与公开课程索引；不含第三方 PDF。',
 
-  // 将来发布到 GitHub Pages 项目页时，取消下一行注释，并把仓库名对齐：
-  // base: '/computer-science-learning/',
+    // 将来发布到 GitHub Pages 项目页时，取消下一行注释，并把仓库名对齐：
+    // base: '/computer-science-learning/',
 
-  markdown: {
-    lineNumbers: true,
-  },
-
-  // docs/ 中少量页面链接到仓库根目录（站点之外）的文件，例如
-  // ../sources/03-许可判定规则.md 与 ../02-课程总览.md。
-  // 这些链接在站点里不可达，构建时忽略「跳出 docs/」的链接；
-  // docs/ 内部的死链仍会被检查。
-  ignoreDeadLinks: [/^\.\.\//],
-
-  themeConfig: {
-    nav: [
-      { text: '知识地图', link: '/00-知识地图' },
-      { text: '学习路径', link: '/01-学习路径' },
-      { text: '16 个领域', items: domainNavItems },
-    ],
-
-    sidebar: [
-      {
-        text: '总纲',
-        items: [
-          { text: '计算机科学知识地图', link: '/00-知识地图' },
-          { text: '学习路径', link: '/01-学习路径' },
-        ],
+    markdown: {
+      lineNumbers: true,
+      config: (md) => {
+        // 把 Obsidian 的 [[笔记名]] 渲染成行内代码，避免站点里出现裸的双括号。
+        md.use(wikilinkPlugin)
       },
-      ...domainSidebar,
-    ],
-
-    outline: { level: [2, 3], label: '本页目录' },
-    search: { provider: 'local' },
-    docFooter: { prev: '上一篇', next: '下一篇' },
-    lastUpdated: { text: '最后更新' },
-
-    darkModeSwitchLabel: '外观',
-    lightModeSwitchTitle: '切换到浅色模式',
-    darkModeSwitchTitle: '切换到深色模式',
-    sidebarMenuLabel: '目录',
-    returnToTopLabel: '回到顶部',
-    langMenuLabel: '语言',
-
-    footer: {
-      message: '原创内容；第三方课程资料仅登记链接，不随站点分发。',
     },
-  },
-})
+
+    // docs/ 中少量页面链接到仓库根目录（站点之外）的文件，例如
+    // ../sources/03-许可判定规则.md 与 ../02-课程总览.md。
+    // 这些链接在站点里不可达（VitePress 会把它们归一化成 ./../xxx），
+    // 构建时忽略「跳出 docs/」的链接；docs/ 内部的死链仍会被检查。
+    ignoreDeadLinks: [/^(\.\/)?\.\.\//],
+
+    themeConfig: {
+      nav: [
+        { text: '知识地图', link: '/00-知识地图' },
+        { text: '学习路径', link: '/01-学习路径' },
+        { text: '16 个领域', items: domainNavItems },
+      ],
+
+      sidebar: [
+        {
+          text: '总纲',
+          items: [
+            { text: '计算机科学知识地图', link: '/00-知识地图' },
+            { text: '学习路径', link: '/01-学习路径' },
+          ],
+        },
+        ...domainSidebar,
+      ],
+
+      outline: { level: [2, 3], label: '本页目录' },
+      search: { provider: 'local' },
+      docFooter: { prev: '上一篇', next: '下一篇' },
+      lastUpdated: { text: '最后更新' },
+
+      darkModeSwitchLabel: '外观',
+      lightModeSwitchTitle: '切换到浅色模式',
+      darkModeSwitchTitle: '切换到深色模式',
+      sidebarMenuLabel: '目录',
+      returnToTopLabel: '回到顶部',
+      langMenuLabel: '语言',
+
+      footer: {
+        message: '原创内容；第三方课程资料仅登记链接，不随站点分发。',
+      },
+    },
+  }),
+)
