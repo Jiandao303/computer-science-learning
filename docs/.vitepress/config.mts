@@ -69,6 +69,30 @@ const domainSidebar: DefaultTheme.SidebarItem[] = domains.map((domain) => ({
   items: domainItems(domain),
 }))
 
+// C 语言先修库：独立目录，不属于 16 个领域。
+const cLanguageSidebar: DefaultTheme.SidebarItem = {
+  text: 'C 语言先修（15-213）',
+  collapsed: true,
+  items: [
+    { text: '学习总览', link: '/programming/c-language/00-C语言学习总览' },
+    { text: '资料来源清单', link: '/programming/c-language/00-资料来源清单' },
+    { text: '01 基础语法', link: '/programming/c-language/01-基础语法' },
+    { text: '02 数组与字符串', link: '/programming/c-language/02-数组与字符串' },
+    { text: '03 指针', link: '/programming/c-language/03-指针' },
+    { text: '04 结构体与数据结构', link: '/programming/c-language/04-结构体与数据结构' },
+    { text: '05 内存管理', link: '/programming/c-language/05-内存管理' },
+    { text: '06 二进制与位运算', link: '/programming/c-language/06-二进制与位运算' },
+    { text: '07 函数指针与 void 指针', link: '/programming/c-language/07-函数指针与void指针' },
+    { text: '08 编译与链接', link: '/programming/c-language/08-编译与链接' },
+    { text: '09 GDB 与 Valgrind', link: '/programming/c-language/09-GDB与Valgrind' },
+    { text: '10 综合练习', link: '/programming/c-language/10-综合练习' },
+    { text: '11 八天复习路线', link: '/programming/c-language/11-八天复习路线' },
+    { text: '12 15-213 先修评估', link: '/programming/c-language/12-CMU-15-213先修评估' },
+    { text: '13 术语词典', link: '/programming/c-language/13-术语词典' },
+    { text: '14 完整性检查报告', link: '/programming/c-language/14-资料完整性检查报告' },
+  ],
+}
+
 export default withMermaid(
   defineConfig({
     lang: 'zh-CN',
@@ -110,6 +134,7 @@ export default withMermaid(
           ],
         },
         ...domainSidebar,
+        cLanguageSidebar,
       ],
 
       outline: { level: [2, 3], label: '本页目录' },
