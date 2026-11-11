@@ -75,8 +75,10 @@ export default withMermaid(
     title: '计算机科学学习笔记',
     description: '16 个知识领域的原创中文笔记与公开课程索引；不含第三方 PDF。',
 
-    // 将来发布到 GitHub Pages 项目页时，取消下一行注释，并把仓库名对齐：
-    // base: '/computer-science-learning/',
+    // GitHub Pages 项目页地址是 https://<user>.github.io/computer-science-learning/，
+    // 资源必须带这个前缀，否则部署后 CSS/JS 会 404。
+    // 本地预览地址也会变成 http://localhost:5173/computer-science-learning/。
+    base: '/computer-science-learning/',
 
     markdown: {
       lineNumbers: true,
